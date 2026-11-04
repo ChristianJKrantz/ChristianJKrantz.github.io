@@ -1,4 +1,4 @@
-<h1 align="center">👋 ChristianKrantz11.github.io</h1>
+<h1 align="center">Christian Krantz: Portfolio Site</h1>
 
 <p align="center">My portfolio site: certifications, skills and projects, built with plain HTML, CSS and JavaScript.</p>
 
@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="GitHub Pages">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/"><strong>🌐 Visit the site</strong></a></p>
+<p align="center"><a href="https://christiankrantz11.github.io/"><strong>Visit the site</strong></a></p>
 
 <p align="center"><img src="docs/screenshot.png" alt="Portfolio home page for Christian Krantz, Cybersecurity and Networking Student" width="850"></p>
 
-## Projects Featured
+## Featured Projects
 
 | Project | Description |
 | --- | --- |
@@ -51,4 +51,4 @@ GitHub Pages publishes any repository named `<username>.github.io` as that user'
 
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
