@@ -17,6 +17,7 @@
 
 | Project | Description |
 | --- | --- |
+| [Subnet Sprint](https://github.com/ChristianKrantz11/subnet-sprint) | Interactive IPv4 subnetting study game with a built-in scratchpad, calculator and guide |
 | [Weather Dashboard](https://github.com/ChristianKrantz11/weather-dashboard) | City weather search with current conditions and a 5-day forecast |
 | [Work Day Scheduler](https://github.com/ChristianKrantz11/Scheduler) | Hour-by-hour daily planner saved in the browser |
 | [Coding Quiz](https://github.com/ChristianKrantz11/coding-quiz) | Timed JavaScript quiz with a high-score board |
