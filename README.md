@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="GitHub Pages">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/"><strong>Visit the site</strong></a></p>
+<p align="center"><a href="https://christianjkrantz.github.io/"><strong>Visit the site</strong></a></p>
 
 <p align="center"><img src="docs/screenshot.png" alt="Portfolio home page for Christian Krantz, Cybersecurity and Networking Student" width="850"></p>
 
@@ -17,15 +17,15 @@
 
 | Project | Description |
 | --- | --- |
-| [Subnet Sprint](https://github.com/ChristianKrantz11/subnet-sprint) | Interactive IPv4 subnetting study game with a built-in scratchpad, calculator and guide |
-| [Weather Dashboard](https://github.com/ChristianKrantz11/weather-dashboard) | City weather search with current conditions and a 5-day forecast |
-| [Work Day Scheduler](https://github.com/ChristianKrantz11/Scheduler) | Hour-by-hour daily planner saved in the browser |
-| [Coding Quiz](https://github.com/ChristianKrantz11/coding-quiz) | Timed JavaScript quiz with a high-score board |
-| [Taskmaster Pro](https://github.com/ChristianKrantz11/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings |
-| [Password Generator](https://github.com/ChristianKrantz11/super-secure-password-generator) | Strong passwords from the Web Crypto API, built from criteria you choose |
-| [README Generator](https://github.com/ChristianKrantz11/readme-generator) | Node.js command-line tool that writes a README for you |
-| [Run Buddy](https://github.com/ChristianKrantz11/run-buddy) | Responsive landing page for a running-coach service |
-| [Horiseon](https://github.com/ChristianKrantz11/horiseon-challenge) | Accessibility and SEO refactor of a marketing site |
+| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game with a built-in scratchpad, calculator and guide |
+| [Weather Dashboard](https://github.com/ChristianJKrantz/weather-dashboard) | City weather search with current conditions and a 5-day forecast |
+| [Work Day Scheduler](https://github.com/ChristianJKrantz/Scheduler) | Hour-by-hour daily planner saved in the browser |
+| [Coding Quiz](https://github.com/ChristianJKrantz/coding-quiz) | Timed JavaScript quiz with a high-score board |
+| [Taskmaster Pro](https://github.com/ChristianJKrantz/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings |
+| [Password Generator](https://github.com/ChristianJKrantz/super-secure-password-generator) | Strong passwords from the Web Crypto API, built from criteria you choose |
+| [README Generator](https://github.com/ChristianJKrantz/readme-generator) | Node.js command-line tool that writes a README for you |
+| [Run Buddy](https://github.com/ChristianJKrantz/run-buddy) | Responsive landing page for a running-coach service |
+| [Horiseon](https://github.com/ChristianJKrantz/horiseon-challenge) | Accessibility and SEO refactor of a marketing site |
 
 ## Features
 
@@ -55,4 +55,4 @@ GitHub Pages publishes any repository named `<username>.github.io` as that user'
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianJKrantz)
