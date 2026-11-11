@@ -29,7 +29,7 @@
 
 ## Features
 
-- Sections for About, Certifications, Skills, Projects, Education and Contact
+- Sections for About, Certifications, Skills, Projects, Experience, Education and Contact, plus a résumé download
 - Project cards with screenshots and links to each live demo and its code
 - Automatic light and dark mode that follows your system setting
 - Responsive layout with a mobile menu
@@ -43,7 +43,10 @@
 └── assets/
     ├── css/style.css
     ├── js/main.js        # Mobile menu and footer year
-    └── img/projects/     # Project screenshots
+    ├── docs/             # Résumé (PDF)
+    └── img/
+        ├── og-image.png  # Link preview image
+        └── projects/     # Project screenshots
 ```
 
 ## Deployment
