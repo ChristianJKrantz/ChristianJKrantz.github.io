@@ -1,6 +1,6 @@
 <h1 align="center">Christian Krantz: Portfolio Site</h1>
 
-<p align="center">My portfolio site: certifications, skills and projects, built with plain HTML, CSS and JavaScript.</p>
+<p align="center">My portfolio site: certifications, skills and projects, built with HTML, CSS and JavaScript.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
