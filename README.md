@@ -18,7 +18,7 @@
 | Project | Description |
 | --- | --- |
 | [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game with a built-in scratchpad, calculator and guide |
-| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Cisco IOS command practice on a simulated router, switch and PC, plus the Packet Tracer Subnetting Scenario and VLSM Design labs |
+| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Cisco IOS command practice on a simulated router, switch and PC, plus five Packet Tracer labs, including the subnetting labs and an IPv6 Neighbor Discovery simulation |
 | [Weather Dashboard](https://github.com/ChristianJKrantz/weather-dashboard) | City weather search with current conditions and a 5-day forecast |
 | [Work Day Scheduler](https://github.com/ChristianJKrantz/Scheduler) | Hour-by-hour daily planner saved in the browser |
 | [Coding Quiz](https://github.com/ChristianJKrantz/coding-quiz) | Timed JavaScript quiz with a high-score board |
