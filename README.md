@@ -13,12 +13,19 @@
 
 <p align="center"><img src="docs/screenshot.png" alt="Portfolio home page for Christian Krantz, Cybersecurity and Networking Student" width="850"></p>
 
-## Featured Projects
+## Study apps
+
+| Repository | Study task | Live app |
+| --- | --- | --- |
+| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed. | [Open app](https://christianjkrantz.github.io/subnet-sprint/) |
+| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time. | [Open app](https://christianjkrantz.github.io/no-shutdown/) |
+| [Tier One](https://github.com/ChristianJKrantz/tier-one) | Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue. | [Open app](https://christianjkrantz.github.io/tier-one/) |
+| [Algebra Quest](https://github.com/ChristianJKrantz/algebra-quest) | Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic. | [Open app](https://christianjkrantz.github.io/algebra-quest/) |
+
+## Web development projects
 
 | Project | Description |
 | --- | --- |
-| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game with a built-in scratchpad, calculator and guide |
-| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Cisco IOS command practice on a simulated router, switch and PC, plus five Packet Tracer labs, including the subnetting labs and an IPv6 Neighbor Discovery simulation |
 | [Weather Dashboard](https://github.com/ChristianJKrantz/weather-dashboard) | City weather search with current conditions and a 5-day forecast |
 | [Work Day Scheduler](https://github.com/ChristianJKrantz/Scheduler) | Hour-by-hour daily planner saved in the browser |
 | [Coding Quiz](https://github.com/ChristianJKrantz/coding-quiz) | Timed JavaScript quiz with a high-score board |

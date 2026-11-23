@@ -729,3 +729,6 @@ ol {
     grid-column: 1 / -1;
   }
 }
+
+#projects h3[id]{margin:2rem 0 1rem;scroll-margin-top:5rem}
+#study-apps + .project-grid .project-card img{object-fit:contain;background:#f0f1f3}
