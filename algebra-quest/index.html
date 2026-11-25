@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Algebra Quest is now Algebra Workbook</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://christianjkrantz.github.io/algebra-workbook/">
+<meta http-equiv="refresh" content="2; url=https://christianjkrantz.github.io/algebra-workbook/">
+<style>body{font:17px/1.5 Georgia,serif;background:#f3ecdf;color:#2a1d17;display:grid;place-items:center;min-height:100vh;margin:0;padding:20px;text-align:center}a{color:#702638;font-weight:bold}</style>
+<script>
+/* Algebra Quest was renamed Algebra Workbook. Send visitors (and the place they were, like #/ch/1/c1-linear) to the
+   new address. Saved progress lives in this browser for the whole site, so it is already there. The old offline copy
+   is removed so it can't keep serving the old app. */
+(function () {
+  var to = 'https://christianjkrantz.github.io/algebra-workbook/' + location.search + location.hash;
+  var done = function () { location.replace(to); };
+  try {
+    var jobs = [];
+    if (navigator.serviceWorker && navigator.serviceWorker.getRegistrations) jobs.push(navigator.serviceWorker.getRegistrations().then(function (rs) {
+      return Promise.all(rs.filter(function (r) { return /\/algebra-quest\/$/.test(r.scope); }).map(function (r) { return r.unregister(); }));
+    }));
+    if (window.caches && caches.keys) jobs.push(caches.keys().then(function (ks) {
+      return Promise.all(ks.filter(function (k) { return k.indexOf('algebra-quest-v') === 0; }).map(function (k) { return caches.delete(k); }));
+    }));
+    Promise.all(jobs).then(done, done); setTimeout(done, 1500);
+  } catch (e) { done(); }
+})();
+</script>
+</head>
+<body>
+<p>Algebra Quest is now <b>Algebra Workbook</b>.<br>Taking you there… <a href="https://christianjkrantz.github.io/algebra-workbook/">Open Algebra Workbook</a></p>
+</body>
+</html>

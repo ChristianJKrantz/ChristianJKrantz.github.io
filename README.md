@@ -20,7 +20,7 @@
 | [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Learn subnetting on a guided path: a short lesson for each skill, practice until it sticks, and spaced review. Then work full worksheets, VLSM problems and your weak spots. | [Open app](https://christianjkrantz.github.io/subnet-sprint/) |
 | [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Learn Cisco IOS one unit at a time: a short lesson, drills until it sticks, then a checkpoint task on a simulated router or switch. Packet Tracer labs and a free sandbox too. | [Open app](https://christianjkrantz.github.io/no-shutdown/) |
 | [Tier One](https://github.com/ChristianJKrantz/tier-one) | Train for the Windows help desk with lessons, command drills and support tickets. Hints come first, the answer shows after two misses, and missed tickets come back for review. | [Open app](https://christianjkrantz.github.io/tier-one/) |
-| [Algebra Quest](https://github.com/ChristianJKrantz/algebra-quest) | Work through college algebra: every lesson ends with a problem to try yourself, then generated practice with hints, spaced flashcards and review by topic. | [Open app](https://christianjkrantz.github.io/algebra-quest/) |
+| [Algebra Workbook](https://github.com/ChristianJKrantz/algebra-workbook) | Work through college algebra: every lesson ends with a problem to try yourself, then generated practice with hints, spaced flashcards and review by topic. | [Open app](https://christianjkrantz.github.io/algebra-workbook/) |
 
 ## Web development projects
 
